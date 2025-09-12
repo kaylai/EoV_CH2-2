@@ -1,0 +1,23 @@
+﻿Run no.,sulfide sat?,sulfate sat?,S,S_sd,symbol,DFMQ,DFMQ_sd
+2,Y,N,0.14,0.02,circle,,
+3,Y,N,0.13,0.02,circle,,
+4,Y,N,0.14,0.02,circle,,
+5,Y,N,0.14,0.01,circle,,
+7,Y,N,0.15,0.01,circle,,
+10,Y,N,0.18,0.01,circle,,
+11,Y,N,0.16,0.02,circle,,
+12,Y,N,0.14,0.01,circle,,
+26,N,Y,1.28,0.09,diamond,3.82,0.4
+30A,N,Y,1.34,0.07,diamond,,
+30B,N,Y,1.52,0.03,diamond,2.59,0.4
+34,N,Y,1,0.2,diamond,1.85,0.4
+35A,N,Y,1.6,0.2,diamond,2.41,0.4
+50,N,Y,1.62,0.04,diamond,2.22,0.4
+52A,N,Y,1.8,0.03,diamond,2.7,0.4
+56A,N,Y,1.15,0.08,diamond,2.46,0.4
+56B,N,Y,1.26,0.06,diamond,2.5,0.4
+27,Y,N,0.11,0.01,circle,-1.12,1.2
+35B,Y,N,0.15,0.08,circle,-2.89,1.2
+52B,Y,N,0.16,0.01,circle,-2.87,1.2
+54A,Y,N,0.11,0.02,circle,-1.5,1.2
+54B,Y,N,0.11,0.02,circle,-1.54,1.2
